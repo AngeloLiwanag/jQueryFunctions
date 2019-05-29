@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.container{
+    display:block;
+}
+    .container .sub_container{
+        display:inline-block;
+        width: 1024px;
+        margin: 10px;
+        border-bottom: 2px solid black;
+    }
+        .sub_container button{
+            display:inline-block;
+            margin-top: 20px
+        }
+        .sub_container .body{
+            display:block;
+            margin: 10px 100px;
+        }
+
